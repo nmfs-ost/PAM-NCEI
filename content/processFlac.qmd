@@ -1,0 +1,15 @@
+---
+title: Process FLAC Data
+---
+
+## Goal
+
+Update common analysis software to read FLAC.
+
+This will include three sub tasks:
+
+-   Establish a list of standard software to develop this capacity.
+
+-   Determine what is needed to adjust the software list in subtask 1 to input FLAC files.
+
+-   Issue contract to complete the work identified in subtask 2.

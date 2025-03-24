@@ -1,0 +1,39 @@
+---
+title: Native to FLAC Conversion
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Storing and processing audio data as FLAC files, a lossless compression format for audio data, saves substantial storage space and processing time.
+Fully integrating FLAC files into the PAM processing and storage workflow would require additional investment beyond the current PAM SI funding to develop software to convert from native to FLAC and ensure that common processing softwares accept FLAC formats.
+The PAM SI team will leverage existing effort to make progress towards this project as possible, but it is currently unfunded.
+
+## Target outcome
+
+A more time-efficient workflow that omits steps in the file conversion process prior to archiving
+
+## Summary
+
+The goal of this effort will be to eliminate the time-consuming step of converting native audio files into wav and then into FLAC by creating a workflow that directly converts native files into a FLAC format.
+It will also make progress on ensuring FLAC files will be accepted inputs from some of the most commonly used processing software.
+
+## Action Items
+
+**Convert to FLAC:** Develop processing pipeline to save native data formats to FLAC.
+This will include three sub tasks:
+
+-   Establish a list of what the native file formats are that we want to evaluate going from native to FLAC.
+
+-   Determine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work.
+
+-   Create processing code to convert identified native file types to FLAC.
+
+**Process FLAC:** Update common analysis software to read FLAC.
+This will include three sub tasks:
+
+-   Establish a list of standard software to develop this capacity.
+
+-   Determine what is needed to adjust the software list in subtask 1 to input FLAC files.
+
+-   Issue contract to complete the work identified in subtask 2.

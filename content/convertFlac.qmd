@@ -1,0 +1,15 @@
+---
+title: FLAC Conversion
+---
+
+## Goal
+
+Develop processing pipeline to save native data formats to FLAC.
+
+This will include three sub tasks:
+
+-   Establish a list of what the native file formats are that we want to evaluate going from native to FLAC.
+
+-   Determine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work.
+
+-   Create processing code to convert identified native file types to FLAC.
