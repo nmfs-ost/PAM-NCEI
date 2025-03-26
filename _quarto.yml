@@ -4,7 +4,7 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM-NCEI.html/" 
+  site-url: "https://nmfs-ost.github.io/PAM-NCEI.html" 
   repo-url: "https://github.com/nmfs-ost/PAM-NCEI"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
@@ -21,10 +21,10 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
-        text: "NMFS National Passive Acoustic Monitoring Network"
+        href: https://nmfs-ost.github.io/PAM-NCEI/
+        text: "NOAA Fisheries PAM-NCEI Archive"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
+        href: https://github.com/nmfs-ost/PAM-NCEI/
         text: "NMFS PAM-SI NCEI Archive"
 
     style: "docked"
